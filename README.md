@@ -36,9 +36,41 @@ The fine-tuning process involves training the DistilBERT model on the IMDb datas
 ![WhatsApp Image 2024-01-22 at 4 27 42 AM](https://github.com/Ma7moudYasser/Sentiment-Analysis-Task-Using-distilbert-base-uncased-/assets/57537704/8036f78e-501b-4609-806b-4d635d73c6cc)
 
 
-# Model performance 
-
 
 
 
 ![WhatsApp Image 2024-01-22 at 4 26 43 AM](https://github.com/Ma7moudYasser/Sentiment-Analysis-Task-Using-distilbert-base-uncased-/assets/57537704/bf669afc-b4fd-4258-a539-e19d51056e07)
+
+
+
+
+# Model performance 
+
+
+![model performance ](https://github.com/Ma7moudYasser/Sentiment-Analysis-Task-Using-distilbert-base-uncased-/assets/57537704/5fa83fad-a696-4461-bde3-2a17fe0fc3e9)
+
+
+# Challenges I have faced
+1- The main challenge which I have faced was about the homonyms problem and the extreme case given inside the task, it took a lot of time
+to optimize the best solution for this problem
+
+# Resources
+During the development of this project, the following external resources were referenced for inspiration, insights, and additional information:
+
+1. [Utilizing Transformer Representations Efficiently](https://www.kaggle.com/code/rhtsingh/utilizing-transformer-representations-efficiently/notebook)
+   - Kaggle notebook providing insights into efficient utilization of Transformer representations.
+
+2. [The Challenge of Interpreting Language in NLP](https://towardsdatascience.com/the-challenge-of-interpreting-language-in-nlp-edf732775870)
+   - Article on Towards Data Science discussing challenges in interpreting language in Natural Language Processing (NLP).
+
+3. [Using Machine Learning to Disentangle Homonyms in Large Text Corpora](https://www.researchgate.net/publication/320729376_Using_machine_learning_to_disentangle_homonyms_in_large_text_corpora)
+   - Research paper on ResearchGate discussing the use of machine learning to disentangle homonyms in large text corpora.
+
+4. [Fine-Tune BERT Model for Sentiment Analysis in Google Colab](https://www.analyticsvidhya.com/blog/2021/12/fine-tune-bert-model-for-sentiment-analysis-in-google-colab/)
+   - Article on Analytics Vidhya providing a guide on fine-tuning BERT models for sentiment analysis in Google Colab.
+
+5. [Sentiment Analysis with BART - COVID-19](https://www.kaggle.com/code/akshay560/sentiment-analysis-with-bart-covid19)
+   - Kaggle notebook demonstrating sentiment analysis with BART on COVID-19-related data.
+
+# conclusion
+The sentiment analysis project demonstrates the successful fine-tuning of a DistilBERT model for classifying movie reviews as positive or negative. The documentation provides a clear overview of the experiments conducted, tools utilized, and external resources referenced. The fine-tuning process is detailed, offering insights into model adaptation and optimization. The overall conclusion summarizes the project's achievements and potential areas for future exploration and enhancement.
