@@ -19,12 +19,12 @@ The fine-tuning process involves training the DistilBERT model on the IMDb datas
 
 ## Tools used 
 
-###Transformers library
-###Datasets library
-###Evaluate library
-###Accelerate library
-###Hugging Face Model Hub
-###Notebook login from Hugging Face Hub
+### Transformers library
+### Datasets library
+### Evaluate library
+### Accelerate library
+### Hugging Face Model Hub
+### Notebook login from Hugging Face Hub
 
 # Please note that the model solved the extreme cases sent inside the task 
 ### You can test the [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model%20Link-blue)](https://huggingface.co/Medo3110/my_awesome_model/commit/9daa469c1a3f1f052dc89f4c91ff505fae940dc4)
