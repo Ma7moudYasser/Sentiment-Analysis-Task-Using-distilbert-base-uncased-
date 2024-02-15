@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Task-Using-distilbert-base-uncased
 # Project documentation
-#Introduction
+# Introduction
 This project focuses on sentiment analysis using the IMDb dataset and fine-tuning a DistilBERT-based model for binary classification (positive or negative sentiment). The primary objective is to develop a robust sentiment analysis model and showcase the fine-tuning process using Hugging Face's Transformers library.
 
 #Data Description
